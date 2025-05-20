@@ -88,14 +88,8 @@ O projeto **PythonDados** foi desenvolvido com fins educacionais e exploratório
 ## 🙋‍♂️ Autor
 
 Desenvolvido por **Pedro Romao**  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-📧 dev@email.com
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-rom%C3%A3o-2615572b3/)  
+📧 pedro7ntj@email.com
 
 ---
 
